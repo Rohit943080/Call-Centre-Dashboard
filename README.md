@@ -1,6 +1,6 @@
 # 🎯Call Centre Dashboard
 
-(Dashboard.png)
+![Project Screenshot](Dashboard.png)
 - Analyze call center performance metrics
 - Track trends across time (monthly & weekly)
 - Evaluate customer satisfaction using ratings
